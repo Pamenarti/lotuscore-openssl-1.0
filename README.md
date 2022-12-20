@@ -1,7 +1,7 @@
 PRW -  Lotuscoin Core integration/staging tree (yes tree)
 =====================================
 
-This repo is WOODCORE without the SSL1.1 additions, for older systems with OPENSSL 1.0
+This repo is LotusCore without the SSL1.1 additions, for older systems with OPENSSL 1.0
 
 This project is a fully armed and operational bitcoin-core ported to the lotuscoin network.  
 
@@ -25,8 +25,6 @@ the Lotuscoin Core software,
 
 Development Process
 -------------------
-
-Developer IRC can be found on Freenode at #Lotuscoin-dev and #Lotuscoin.
 
 Dependencies:   (listed w/ debian/ubuntu names)
 
